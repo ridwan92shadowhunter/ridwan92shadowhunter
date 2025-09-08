@@ -34,15 +34,9 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ridwan92shadowhunter&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=ridwan92shadowhunter&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
